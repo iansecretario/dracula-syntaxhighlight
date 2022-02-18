@@ -1,8 +1,5 @@
 /**
- * SyntaxHighlighter modified version by iansecretario for guidem 
- *
- *
- * original author below
+ * SyntaxHighlighter by IanSecretario
  * http://alexgorbatchev.com/SyntaxHighlighter
  *
  * SyntaxHighlighter is donationware. If you are using it, please donate.
@@ -16,10 +13,8 @@
  *
  * @license
  * Dual licensed under the MIT and GPL licenses.
- */ 
-
-
-.syntaxhighlighter a,
+ */
+ .syntaxhighlighter a,
  .syntaxhighlighter div,
  .syntaxhighlighter code,
  .syntaxhighlighter table,
@@ -190,7 +185,7 @@
    color: black !important;
  }
  .syntaxhighlighter.printing .comments, .syntaxhighlighter.printing .comments a {
-   color: #008200 !important;
+   color: #7970A9 !important;
  }
  .syntaxhighlighter.printing .string, .syntaxhighlighter.printing .string a {
    color: blue !important;
@@ -203,10 +198,10 @@
    color: gray !important;
  }
  .syntaxhighlighter.printing .variable {
-   color: #aa7700 !important;
+   color: #9580FF !important;
  }
  .syntaxhighlighter.printing .value {
-   color: #009900 !important;
+   color: #EFFB7B !important;
  }
  .syntaxhighlighter.printing .functions {
    color: #ff1493 !important;
